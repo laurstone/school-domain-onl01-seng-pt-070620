@@ -2,7 +2,7 @@
 class School
  attr_reader :roster
 
-def initialize(name, grade)
+def initialize(new)
   @new = new 
   @roster = {}
 end 
